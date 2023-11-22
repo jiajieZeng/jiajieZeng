@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently studying at SCNU.
-- 🌱 I’m currently learning Graph Db, ML and Golang.
-- ![Jiajie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajieZeng)
+- 🌱 I’m currently learning Graph DB, ML and Golang.
+
+![Jiajie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajieZeng)
