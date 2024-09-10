@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at SCNU.
 - 🌱 I’m currently learning ML, Distributed System and Golang.
 - 🤔 My research interests include: Computer Architecture, Distributed Systems, Cloud Native.
-
+- 😄 My conference paper on distributed systems is about to be published(Accepted).
 ![Jiajie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajieZeng)
