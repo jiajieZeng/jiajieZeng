@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently studying at SCNU.
-- 🌱 I’m currently learning ML, Distributed System and Golang.
-- 🤔 My research interests include: Computer Architecture, Distributed Systems, Cloud Native.
+- 🌱 I’m currently learning ML, RL and LLM.
+- 🤔 My research interests include: ML, RL, LLM, Distributed Systems and Cloud Native.
 - 😄 My conference paper on distributed systems is about to be published(Accepted).
 ![Jiajie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajieZeng)
