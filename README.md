@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I am currently studying at SCNU as an undergraduate.
+- 🔭 I am currently studying at SCUT as a Master.
 <!-- - 🌱 I’m currently learning ML and LLM. -->
 <!-- - 🤔 My research interests include: ML, RL, LLM, Distributed Systems and Cloud Native. -->
 <!-- - 😄 My conference paper on distributed systems is about to be published(Accepted). -->
